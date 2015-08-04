@@ -1,0 +1,9 @@
+/* comment */
+/* SELECTOR {
+	RULE1: rule_value;
+	RULEN: rule_value;
+}
+*/
+h1 {
+	color: red;
+}
